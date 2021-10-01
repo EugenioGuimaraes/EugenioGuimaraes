@@ -1,6 +1,6 @@
 ## Olá! Eu sou Eugênio Guimarães
 
-- 🔭 Atualmente estudo para me tornar Dev back-end!
+- 🔭 Atualmente estudo para me tornar um excelente DEV
 - 🌱 Estudando JavaScript | Node.js
 
 <div align="center">
