@@ -1,7 +1,7 @@
 ## Olá! Eu sou Eugênio Guimarães
 
 - 🔭 Atualmente estudo para me tornar um excelente DEV
-- 🌱 Estudando JavaScript | Node.js
+- 🌱 Estudando JavaScript | Node.js | HTML | CSS
 
 <div align="center">
   <a href="https://github.com/EugenioGuimaraes">
