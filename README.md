@@ -1,7 +1,8 @@
-## Olá! Eu sou Eugênio Guimarães
+## Olá! Eu sou Eugênio Lobo Guimarães
 
-- 🔭 Atualmente estudo para me tornar um excelente DEV
-- 🌱 Estudando JavaScript | Node.js | HTML | CSS
+- 🔭 Estudante Desenvolvimento Full Stack na Kenzie Academy Brasil
+- 🌱 Sempre buscando melhorar!
+- 🍕 Viciado em pizza!
 
 <div align="center">
   <a href="https://github.com/EugenioGuimaraes">
