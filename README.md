@@ -1,9 +1,10 @@
 ## Olá! Eu sou Eugênio Lobo Guimarães
 
-- 🔭 Estudante Desenvolvimento Full Stack na Kenzie Academy Brasil
-- 🌱 Sempre buscando melhorar!
-- 🍕 Viciado em pizza!
+> - 🔭 Estudante Desenvolvimento Full Stack na Kenzie Academy Brasil
+> - 🌱 Sempre buscando melhorar!
+> - 🍕 Viciado em pizza!
 
+> Status: Developing
 <div align="center">
   <a href="https://github.com/EugenioGuimaraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EugenioGuimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +13,7 @@
 
   #
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="zeno-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="zeno-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="zeno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
