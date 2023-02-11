@@ -1,21 +1,21 @@
-## Olá! Eu sou Eugênio Lobo Guimarães
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+my+name+is+Eugênio+Lobo;I'm+a+full+stack+developer;I'm+from+Brazil;I'm+a+Web+Developer+student;Welcome+to+my+GitHub+page!+:%29)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+<br/>
+<br/>
 
-> - 🔭 Estudante Full Stack na Kenzie Academy Brasil
-> - 🌱 Sempre buscando melhorar!
-> - 🍕 Viciado em pizza!
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EugenioGuimaraes&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00FAAC&text_color=E6E7E8&bg_color=0d1117" alt="EugenioGuimaraes github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioGuimaraes&layout=compact&hide_border=true&title_color=FFFFFF&text_color=00FAAC&bg_color=0d1117" />
+</div>
 
 > Status: Developing
-<!-- <div align="center">
-  <a href="https://github.com/EugenioGuimaraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EugenioGuimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioGuimaraes&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
 
-  #
+<!-- #
   
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
+  <br/>
+  <h2>Skills</h2>
+  <br/>
   <img align="center" alt="zeno-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="zeno-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="zeno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,14 +24,33 @@
   <img align="center" alt="zeno-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="zeno-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   </div>
+ -->
 
-#
 
-<div>
+<div align="center" style="display: inline_block">
+  <br/>
+  <h2>Get in touch</h2>
+  <br/>
   <a href = "mailto:eugenio.guimaraes1112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eugenio-lobo-guimaraes-1701aa1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/EugenioGuimaraes/EugenioGuimaraes/blob/output/github-contribution-grid-snake.svg)
+  <br/>
+  <br/>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EugenioGuimaraes&bg_color=0d1117&color=FFFFFF&line=0077b5&point=03cc8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--   ![Snake animation](https://github.com/EugenioGuimaraes/EugenioGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
  
   
+</div>
+
+<div align="center">
+  <h2>My current stack</h2>
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px" alt="CSS3" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="border-radius: 30px" alt="JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius: 30px" alt="Node.js" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 30px" alt="Python" target="_blank">
+  <img src="https://img.shields.io/badge/Django-092d1f?style=for-the-badge&logo=django&logoColor=white" style="border-radius: 30px" alt="Python" target="_blank">
 </div>
