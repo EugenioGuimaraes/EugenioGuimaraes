@@ -10,22 +10,6 @@
 
 > Status: Developing
 
-<!-- #
-  
-<div align="center" style="display: inline_block">
-  <br/>
-  <h2>Skills</h2>
-  <br/>
-  <img align="center" alt="zeno-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="zeno-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="zeno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="zeno-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="zeno-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="zeno-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="zeno-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  </div>
- -->
-
 
 <div align="center" style="display: inline_block">
   <br/>
@@ -33,11 +17,18 @@
   <br/>
   <a href = "mailto:eugenio.guimaraes1112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eugenio-lobo-guimaraes-1701aa1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
   <br/>
   <br/>
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EugenioGuimaraes&bg_color=0d1117&color=FFFFFF&line=0077b5&point=03cc8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <a href="https://github.com/pedrolibas">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=EugenioGuimaraes&theme=dark&hide_border=true&background=FFFFFF00">
+</a>
+  
+  
 <!--   ![Snake animation](https://github.com/EugenioGuimaraes/EugenioGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
  
   
