@@ -22,14 +22,14 @@
   <br/>
   <br/>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EugenioGuimaraes&bg_color=0d1117&color=FFFFFF&line=0077b5&point=03cc8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EugenioGuimaraes&bg_color=0d1117&color=FFFFFF&line=0077b5&point=03cc8f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
   <a href="https://github.com/pedrolibas">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=EugenioGuimaraes&theme=dark&hide_border=true&background=FFFFFF00">
 </a>
   
   
-<!--   ![Snake animation](https://github.com/EugenioGuimaraes/EugenioGuimaraes/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/EugenioGuimaraes/EugenioGuimaraes/blob/output/github-contribution-grid-snake.svg)
  
   
 </div>
