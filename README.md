@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+My+name+is+Eugênio+Lobo;I'm+a+full+stack+developer;Hello+from+Brazil+^^;I'm+a+Web+Developer+student;Welcome+to+my+GitHub+page!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+I'm+Eugênio+Lobo;Welcome+to+my+GitHub+page!+:%29;I'm+a+full+stack+developer;Feel+free+to+interact)](https://git.io/typing-svg)
 
 <br/>
 <br/>
