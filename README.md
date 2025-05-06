@@ -3,17 +3,11 @@
 <br/>
 <br/>
 
+![3D GitHub Profile](https://raw.githubusercontent.com/EugenioGuimaraes/EugenioGuimaraes/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-![3D GitHub Profile](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EugenioGuimaraes&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00FAAC&text_color=E6E7E8&bg_color=0d1117" alt="EugenioGuimaraes github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioGuimaraes&layout=compact&hide_border=true&title_color=FFFFFF&text_color=00FAAC&bg_color=0d1117" />
-</div>
-
-> Status: Developing
-
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EugenioGuimaraes&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EugenioGuimaraes&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 <div align="center" style="display: inline_block">
   <br/>
