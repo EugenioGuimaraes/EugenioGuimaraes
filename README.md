@@ -3,6 +3,10 @@
 <br/>
 <br/>
 
+
+![3D GitHub Profile](./profile-3d-contrib/profile-season-animate.svg)
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EugenioGuimaraes&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00FAAC&text_color=E6E7E8&bg_color=0d1117" alt="EugenioGuimaraes github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioGuimaraes&layout=compact&hide_border=true&title_color=FFFFFF&text_color=00FAAC&bg_color=0d1117" />
