@@ -34,4 +34,8 @@
   <img src="https://skillicons.dev//icons?i=cs,dotnet,py,django,go,java,aws,git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,vue,docker,figma,github,linux,ubuntu,postman,vercel,vite,bootstrap,postgres,stackoverflow,discord)" />
 </a>
   <br />
-
+  <br />
+     
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=EugenioGuimaraes&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
