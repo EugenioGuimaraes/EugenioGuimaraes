@@ -15,27 +15,22 @@
   <br/>
   <a href = "mailto:eugenio.guimaraes1112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eugenio-lobo-guimaraes-1701aa1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
   <br/>
   <br/>
-    
   <a href="https://github.com/pedrolibas">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=EugenioGuimaraes&theme=dark&hide_border=true&background=FFFFFF00">
-</a>
-  
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=EugenioGuimaraes&theme=dark&hide_border=true&background=FFFFFF00">
+  </a>
 </div>
-
 <div align="center">
   <h2>My current stack</h2>
   <br/>
     <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev//icons?i=cs,dotnet,py,django,go,java,aws,git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,vue,docker,figma,github,linux,ubuntu,postman,vercel,vite,bootstrap,postgres,stackoverflow,discord)" />
-</a>
+       <a href="https://skillicons.dev"   >
+         <img src="https://skillicons.dev//icons?i=cs,dotnet,py,django,go,java,aws,git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,vue,docker,figma,github,linux,ubuntu,postman,vercel,vite,bootstrap,postgres,stackoverflow,discord)" />
+       </a>
+     </div>
   <br />
   <br />
-     
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=EugenioGuimaraes&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
