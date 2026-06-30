@@ -60,14 +60,9 @@ I'm a full stack engineer with a backend and cloud focus. I work with **Go**, **
 <a href="https://www.linkedin.com/in/eugenio-guimaraes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-
-</div>
-
-
-<div align="center">
-
-<a href="https://seu-link-vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-eugenio.dev-F59E0B?style=for-the-badge&logo=vercel&logoColor=F59E0B&labelColor=111111" />
+&nbsp;
+<a href="https://eugenio-portfolio-seven.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-eugenio--portfolio-F59E0B?style=for-the-badge&logo=vercel&logoColor=F59E0B&labelColor=111111" />
 </a>
 
 </div>
