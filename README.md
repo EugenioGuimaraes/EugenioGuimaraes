@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F59E0B&size=28&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Eugenio+Guimarães.;Full+Stack+Engineer+based+in+Brasilia%2C+BR.;I+build+backends+that+scale.;Go+·+TypeScript+·+NestJS+·+.NET+·+Cloud.)](https://git.io/typing-svg)
 
+
 <br/>
 
 </div>
